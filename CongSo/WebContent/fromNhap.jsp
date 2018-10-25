@@ -9,9 +9,9 @@
 </head>
 <body>
 	<form action="Add" method="get">
-		Số a: <input type="text" name="a"> </br> </br> 
-		Số b: <input type="text" name="b"> </br> </br> 
-		<input type="submit" name="Add" value="Tính"/>
+		Nhập số a: <input type="text" name="a"> </br> </br> 
+		Nhập số b: <input type="text" name="b"> </br> </br> 
+		<input type="submit" name="Add" value="Tính toán"/>
 	</form>
 </body>
 </html>
